@@ -387,3 +387,77 @@ Take me as an example. When I was a freshman in the university, the popular fond
 ![image-20220407185735579](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220407185735579.png)
 
 ![image-20220407185835155](../../AppData/Roaming/Typora/typora-user-images/image-20220407185835155.png)
+
+
+
+
+
+---
+
+422 writing
+
+
+
+![image-20220422175610086](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220422175610086.png)
+
+> 我还真被卡住了
+
+
+
+
+
+
+
+![image-20220423115141835](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220423115141835.png)
+
+1. Volunteering at a museum is easier than volunteering at a hospital. 
+
+2. To be more specific, students with some basic knowledge or even not know anything can be a volunteer at the museum after a short training. However, to be a volunteer at a hospital, you need to take a long training because taking care of patients needs to learn a lot of things that you may never hear before in daily life. 
+
+3. Tom, a senior high school student, wanted to apply for a nurse in the last summer vacation. Waiting for a long time, he did not receive any interview announcement. He called the HR and was told his resume did not meet their standards. "You know nothing about any medical knowledge, which means you can not give any reasonable suggestion to the patient. What's more, you may fail in some operations that can determine the patient's life. We need to take responsibility for our patients. I'm sorry but we can not agree you to be a volunteer here." Nevertheless, when he sent his resume to a museum. He received an offer immediately. He was surprised and the staff told him that to be a volunteer in the museum just needs an enthusiasm heart. 
+
+4. So, for the difficulty of application, a museum is a better choice. 
+
+5. Working in the museum is much safer than working outside. Specifically, staying in an environment filled with wildlife animals is a dangerous choice for a student. 
+
+6. Take me as an example, last holiday I was invited to be a volunteer in a nature conversation. Everything was good at the beginning until the first contact with animals. I was shocked by the elephant's huge body. I thought I would be sent to the hospital if I was hit by its nose. Even though the work staff said all animals are not aggressive,  I was still worried about my safety. When I fed the elephant, suddenly a monkey showed up and grabbed the banana in my hands. I was scared and stepped back unconsciously until my head was hit by a door. The bump was not serious but I still gave up this job for my safety. When I can apply for a volunteer again, I choose to go to a museum without any consideration. And I have a nice experience in the museum, at least I keep my body health there. 
+
+7. All in all, there will be much more accidents than in a museum. 
+
+   ![image-20220423140705935](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220423140705935.png)
+
+构思花了一会
+
+1. Providing students with classes will influence more people. 
+
+      To be more specific, not many adults will choose to watch movies as their entertainment. However, at least most students want to take the extra classes to get good grades. 
+
+      Take me as an example. When I was a senior high student, my city built a movie theater in the parks, trying to attract people and stimulate the consume. Frankly, the movie theater seemed fascinating and it was equipped with edge-cut player devices. However, the number of customers did not meet the government's expectations. According to a statistic we found that adults have many sorts of entertainment like going hiking or watching a sports game while watching movies is not ranking among the top 5. Then, the movie theater was destructed and a new school was built up. To administrators' surprise, more and more students came here because attending extra classes is an effective way to improve grades. Their family members also came here to take care of their kids. The number of people who came here exceeded expectations in a short time. 
+
+   
+
+2. 
+   The behavior that providing students with classes can build a more positive reputation for the city. People hate repetition, which means too many advertisements may cause the opposite effect. 
+
+   Take my city as an example. It had decided to advertise itself since the last year. It invited many celebrities to record videos and put many trailers online. During that time, people can watch the videos or relevant advertisements everyday when they open up the website. After a month, people felt bored watching the same video everyday. It caused a bad influence among those who may be potential customers. Gradually, people had a negative impression that this city loved to boost itself. Nevertheless, the neighbor city built a school during the same time. And many students decided to go there to attend school. Then the city leaved a good impression on these other province students. And when the statistic about the most popular city is revealed. My city is at the bottom while our neighbor city arrives at the top 10 among hundreds of cities.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
