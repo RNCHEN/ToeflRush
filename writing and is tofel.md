@@ -242,7 +242,7 @@ In order to survive and thrive in this fiercely competitive society, people have
 
 I can think of no better illustration than the example of my own experience 
 
-your dream will come true--> the result will happen organically
+your dream will come true--> ==the result will happen organically==
 
 I can think of no better illustration than the example of my own experience
 
@@ -266,7 +266,7 @@ It's acknowledged that sth embodies the spirt and essence of traditional culture
 
 ==never have there been more appropriate vehicles for direct marketing than email and Internet==       can be both used in speaking and writing 
 
-倒装句：
+==倒装句：==
 
 - Important to success in learning a foreign language is constant attention to details
 - not only will kids improve their cardiovascular and muscular system strength, endurance, flexibility and hand-eye cooperation, but they will also learn perseverance, goal-setting and coping skills to deal with success and failure.
@@ -308,6 +308,8 @@ Nowadays, many young children may just enjoy the convenience of Internet which m
 
 
 Indeed, a voice rise that the Internet can also improve the society working efficiency, because that nowadays many IT companies take the use of Internet to start working. However, it can be not denied that not all companies are using the net work. After all, for most of companies, a more convenience transport system means more, which can reduce the economy pressure and save more time. 
+
+我这写的都是啥啊
 
 4min
 
@@ -522,7 +524,7 @@ despite the benefits to students of "getting their feet wet"
 
 ![image-20211018211431848](https://gitee.com/chenweigen13/photo/raw/master/img/20211114202402.png)
 
-only by exercising caution and maintaining a balanced schedule can college students ensure that any part-time job or business ventures that they undertake do not end up overtaking their academic studies.
+AA only by exercising caution and maintaining a balanced schedule can college students ensure that any part-time job or business ventures that they undertake do not end up overtaking their academic studies.
 
 allocate time out of class.
 
@@ -592,7 +594,7 @@ eating your veggies first(先苦后甜)
 
 gaining mental clarity
 
- Not all experience and knowledge related to problem-solving can be obtained by personal effort alone due to limitations of mind and capabilities of each individual.
+AA Not all experience and knowledge related to problem-solving can be obtained by personal effort alone due to limitations of mind and capabilities of each individual.
 
 that's why team work in cooperation is highly emphasized in 21 st century.
 
@@ -602,9 +604,9 @@ Admittedly turning to others for help and suggestion ==by no means refers to== a
 
 undoubtedly gives rise to better, ==if not the best== solutions
 
- make use of all the facilities available there
+make use of all the facilities available there
 
-make friends== get acquainted with 
+make friends == get acquainted with 
 
 sensitive to unintentional thing
 
@@ -612,7 +614,7 @@ nothing can make up for the opportunities that the city
 
 create a lot of garbage that is not always disposed of properly
 
- attend their classes to receive the maximum benefit
+attend their classes to receive the maximum benefit
 
 it may be tempting to skip them once in a while
 
@@ -626,7 +628,7 @@ trifles always meddle in our perfect plan, which is made in advance and try to m
 
 We will always remember the glories and hardships of yesterday, rise to the mission of today, and live up to the great dream of tomorrow.
 
-on all fronts// generally
+on all fronts//  generally
 
 experiencing our own triumphs and disasters is really the only way to learn how to deal with life.
 
@@ -656,7 +658,7 @@ exert one's power/project one's power
 
 ==be in breach of==
 
-his thing is like an albatross around my neck==trouble
+his thing is like an albatross a round my neck==trouble
 
 find some ==common ground==
 
@@ -700,7 +702,7 @@ self-assurance/self-esteem
 
 enlist ally (招募盟友)
 
- Its work **encompasses** educational development **from** pre-school to higher education and beyond
+ Its work **encompasses** educational development **from** pre-school to higher education and beyond(siege)
 
 eradicating poverty and driving sustainable development,
 
@@ -749,7 +751,7 @@ test one's agility and stamina
 familiarize oneself with sth
 have facility of language
 
-be adept at sth
+be adapt at sth
 
 lay out profusion of flowers
 
@@ -759,7 +761,7 @@ composed (clam)
 
 these young ladies brought up gentility showed elegance in their behavior.
 
-Being bombarded with large amount of information, people need to spend extra energy to filter through the news and capture the important information.
+AA Being bombarded with large amount of information, people need to spend extra energy to filter through the news and capture the important information.
 
 being distracted by the various types of news reported
 
@@ -839,13 +841,13 @@ With regard to eco-environmental advancement, the Central Committee has devoted 
 
 sb is going to --> sb is in charge of 
 
-procure the solution to solve the problem 
+AA procure the solution to solve the problem 
 
 kindle hatred(n.) in one's heart
 
 purge away one's sin
 
-be harnessed in= be used in
+AA be harnessed in= be used in
 
  seize opportunity
 
@@ -873,7 +875,7 @@ decisions should be made as much as specificity as possible rather than on the a
 
 down on one's luck  水逆
 
-paramount--override--==overarching==     首要的
+paramount--override--==overarching==     首要的    the overarching question
 
 ==overall== comprehensive 
 
@@ -933,7 +935,7 @@ conducive experience
 
 
 
-## ==topic的表达超重点==
+## topic的表达超重点
 
 make new friends--> explore/expand new social networks
 
@@ -988,6 +990,8 @@ so that people can maintain an objective perception
 完美的开头句子
 
 different people have different opinions.....hhh
+
+AA
 
 ![image-20210606214031513](https://gitee.com/chenweigen13/photo/raw/master/img/20210606214031.png)
 
@@ -1365,3 +1369,64 @@ this is a reasoning
 https://zhuanlan.zhihu.com/p/330556329
 
 ![image-20220419182255534](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220419182255534.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ==My summarise==
+
+## Topic 
+
+when it comes to 
+
+in handleing with new problems connected with scientific advancement 
+
+in the extra-curricular activities 
+
+economical 
+
+help / contributes to 
+
+want / intend to 
+
+## Warrant ?
+
+However =  In comparsion = on the contrary 
+
+To be more specific // more specifically 
+
+as we all know 
+
+Since/ When/ For /As 
+
+Impressively
+
+The main reason is that 
+
+Owing to
+
+Undoubtedly 
+
+Definetely 
+
+In fact / In our society 
+
+Authoritative research , most recently published, has proven that this is true 
+
+in the name of study 
+
+## Conclusion
+
+they can be the great beneficiaries if they work alone
+
