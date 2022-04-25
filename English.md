@@ -441,23 +441,99 @@ Take me as an example. When I was a freshman in the university, the popular fond
 
    Take my city as an example. It had decided to advertise itself since the last year. It invited many celebrities to record videos and put many trailers online. During that time, people can watch the videos or relevant advertisements everyday when they open up the website. After a month, people felt bored watching the same video everyday. It caused a bad influence among those who may be potential customers. Gradually, people had a negative impression that this city loved to boost itself. Nevertheless, the neighbor city built a school during the same time. And many students decided to go there to attend school. Then the city leaved a good impression on these other province students. And when the statistic about the most popular city is revealed. My city is at the bottom while our neighbor city arrives at the top 10 among hundreds of cities.
 
+****
+
+
+
+![image-20220425094934434](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220425094934434.png)
+
+> 我们的想法容易是 这两个点哪个比哪个好，但是没有扣题，扣题应该是，这几个哪个比哪个更能==突出主题==
+>
+> 同方面我们ok
+>
+> 但是不同的方面比如   这样，没有可比性
+>
+> A比B在某一个方面好在哪里  ==前提是选项中有比较明显的劣势==
+>
+> A在这边好，B在那边好，这俩比较改如何比较
+>
+> 现在是ABC三个各有好处，不太好比较
+>
+> 那么我的想法就是
+>
+> A1+A2+antiBC
+
+![image-20220425105215906](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220425105215906.png)
+
+Tht topic pertinent to the issue of the cheating on the homework assignments has become hotly debated in contemporary society, among which is the discussion about what is the best solution to prevent students from cheating anymore. Some individuals propose that asking parents to monitor, citing the reason that parents can directly monitor if the student cheats. Someone suggests to asking teacher to increase the difficulty of assignments so that students can ask no one for help. However, as far as I'm concerned, it is more conductive for school to increase the penalty for cheating. I would provide several reasons in the following paragraphs. 
+
+5 min 
+
+First, asking parents to monitor will just add more budern to parents while increasing the penalty wii not. It is the fact that parents are usually tired after a long-peroid work and they can not pay more attention to their kids' assignment. However, if the school increase the penalty, what parents need to do is just agree with the decision, which is easier. 
+
+Take Tom as an example. 
+
+> 重点是如何 decrease the number of cheating.
+
+First, parents usually won't give their kids a hard punlishment, which is comparde to the school's penalty, thus making students feel free to cheat. The main reason is that parents will usually teach kids to not do that next time orally or do nothing ab
+
+> 在效果而言！！！！
+>
+> 我现在是想不到怎么！！想不到！！！
+
+
+
+First, increasing the penalty can make students afraid of cheating. To be more specific, if the punishment is serious, they need to consider more and will be afraid to cheat because they can not afford it. Take Tom ,as an example. 
+
+Before the last final exam, the penalty for those cheaters was just writing a paper to express that they would never cheat again. However, you can imagine that this kind of punishment could not make students feel that they would pay any price for cheating while they could easily finish their homework. And Tom just still cheated because he could finish his assignments without any independent thinking and almost no punishment. In this term, the school modified its penalty that all cheaters will be asked to leave out the school. When he saw the statement, he knew that he could not do what he did before. It was the serious penalty that made him give up his cheating habit.
+
+What's more, comparing with other two solutions, increasing the punishment is relativelty the most easist solutions. Specifically, asking parents to monitor will add some parents burden so that they may refuse and a more difficult homework may have the opposite effect. 
+
+Take me as an example. When I was a senior high student. They school originally decided to ask parents to monitor students. To school's surprise, parents were almost all against this idea. They said that it was the school that should take the responsibility to monitor students. They parents were already tired after day-time working. This decision just made a bad influence on the reputation of school while did not make any progress in decreasing the number of cheaters. The situation is the same as the third choices. School found that the harder assignments just cause more students to copy the answer. The main reason is that only few students can work out hard questions, which means much more students can only rely on there clever students if they want to finish the task. As for increasing the penalty, no parents would disagree and they teachers still arrived their goal on teaching.
+
+> althoug the logic is confusing, it can prove that I can type 500 words if keep typing.
+
+jump out this questions and we choose another topic to write.
 
 
 
 
 
+![image-20220425142215047](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220425142215047.png)
+
+
+
+The topic pertinent to the issue of students' study efficiency has become hotly debated in contemporary society, among which is the discussion about what is the best solution to improve student's productivity. Some individuals propose that they should know that they will receive a reward, citing the reason the result will stimulate students. Others suggest that they should do something they are really interested in, because they will study it from their deep heart. However, as far as I'm concerned, it is more conducive for students to have an environment free of noise. 
+
+First, having a silent environment means you can research your assignment without being interrupted by others, which is more helpful than having a fantasy expectation. To be more specific, students who pay all attention to the problems can get grades while a good expectation sometimes distracts them.
+
+Take me as an example. When I first came into a lab in school, I was excited because I was told that I could get a grade if I finished the task. So I worked hard day and night researching the task in my classroom, which is full of students and thus it was noisy. Every time I came to a good idea, there would be some accidents that interrupted me like someone may want to borrow my pen or ask questions. The accidents piled up and exerted a huge negative impact on me. Finally I failed to finish the task and my grades were not well. In the next term, I changed my work place to a silent library. The process went well as there would be no more accidents. I could just concentrate all my efforts on the task. To my surprise, my grades in that term is better than I thought.
+
+> did not illustrate 
+
+What's more, usually we can decide where we learn but can not determine what we learn, which is limited to our majority. The main reason is that we can not change our majority easily even if we are not interested in it.
+
+Take Tom as an example, he chose the AI as his major before entering the university but at that time he did not know if he was really interested in the area. Unfortunately, when he studied the area systematically, he found what he really wanted to learn was physics, but he could not change it because of school rules. However, he could select a silent place to study. In his university, there are too many classrooms and study rooms that he could always find a silent one. So in terms of feasibility, choosing a silent study place is easier.
+
+To sum up, with the statement I argued above, I maintain that an environment free of noise and distractions is relatively the best solution among the three choices.
 
 
 
 
 
+----
 
+![image-20220425162627650](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220425162627650.png)
 
+The topic pertinent to the issue of the ability of a modern student has become hotly debated in contemporary society, among which is the discussion about whether it is essential for young people to have the ability to plan and organize. Some individuals propose it is not necessary, citing the reason that students should pay more attention to the study and thus this ability is not important for them. However, as far as I'm concerned, it is more conducive for students to have this ability. I would provide several reasons in the following paragraphs.
 
+First, planning and organizing ability is more helpful for their academic performances. To be more specific, a man with the planning ability usually have a clear mind about what he will do next and can concentrate more on the part that not solved, thus making them get better grades. 
 
+Take me as an example. During my first year that I did not have this ability in senior high school, I struggled with my grades even though I studied from day to night. I just did many assignments but did not summarize and make a special plan to my study. As a result, I made the same mistakes again and again. My teacher told me that I could never make progress unless I could make a plan for my study. From then on, I started to learn to make a plan such as collecting the mistakes and researching the similarity of my mistakes. After a long time efforts, I built a clear mind about solving those questions. Finally, I made huge progress that term.
 
+Second, this ability is also useful in the daily life because it can save our an amount of time and thus increase the work efficiency. The main reason is that we can use the waiting time if we organize.
 
+For example, in the last summer vacation, I was working in a company, which has a lot of tasks. At the beginning, I was full of energy and solved all things one by one without making any plan. After 3 days work, I was not that enthusiastic anymore because I spent a lot of time waiting for the response. I found that if I still wasted the waiting time, the task would be finished at least 2 weeks later. Therefore I made a plan. I listed all events' waiting time and set their priorities. *I decided to f*inish the most emergency first and do the second emergency during the waiting time. Finally, to my surprise, I finished the whole task just one week. It is the behavior that planning things in advance that save my time.
 
-
-
+To sum up, with the statement I argued above, I maintain that modern students should have the ability to plan and organize to live a better life.
 
