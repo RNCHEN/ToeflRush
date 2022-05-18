@@ -537,3 +537,12 @@ For example, in the last summer vacation, I was working in a company, which has 
 
 To sum up, with the statement I argued above, I maintain that modern students should have the ability to plan and organize to live a better life.
 
+
+
+First, mosy elder people do not know other countries' language, which means they need to read the subtitle to understand the movie or programs from other countries.  
+
+
+
+For instance, last summer vacation I invited my family to the movie theather. There were three movies and one of them is Chinese while others are English. I chose the English action movie "Impossible mission6", which had a good reputation abroad. However, after watching, my grandparents said that they did not know what the movie want to express, because they did not know English and the subtitle ran so fast that they did not see it clearly. So in the next vacation, I chose a Chinese fantasy movie called "Running Earth"among all kinds of movies. Even though the speed of the lines is quick, my grandparents can understand what the story by listening. 
+
+It is the language barrier that makes the domestic movie attractive to the local residents.
