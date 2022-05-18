@@ -222,15 +222,17 @@ when we confront with difficulties
 
 
 
+# Template 
 
 
 
+![8c794bd972d11f70aa71d1a10a8dcfb](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/8c794bd972d11f70aa71d1a10a8dcfb.jpg)
 
 
 
+开头段模版： 1. The topic pertinent to the issue of...has become hotly debated in contemporary society, among which is the discussion about whether ....  2.Some individuals propose that ..., citing the reason that ..... 3. However, as far as I'm concerned, ....   4. I would provide several reasons in the following paragraphs.
 
-
-
+![image-20220427184508013](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220427184508013.png)
 
 
 
@@ -539,6 +541,7 @@ To sum up, with the statement I argued above, I maintain that modern students sh
 
 
 
+<<<<<<< HEAD
 First, mosy elder people do not know other countries' language, which means they need to read the subtitle to understand the movie or programs from other countries.  
 
 
@@ -546,3 +549,244 @@ First, mosy elder people do not know other countries' language, which means they
 For instance, last summer vacation I invited my family to the movie theather. There were three movies and one of them is Chinese while others are English. I chose the English action movie "Impossible mission6", which had a good reputation abroad. However, after watching, my grandparents said that they did not know what the movie want to express, because they did not know English and the subtitle ran so fast that they did not see it clearly. So in the next vacation, I chose a Chinese fantasy movie called "Running Earth"among all kinds of movies. Even though the speed of the lines is quick, my grandparents can understand what the story by listening. 
 
 It is the language barrier that makes the domestic movie attractive to the local residents.
+=======
+
+
+
+
+
+
+## 427
+
+The topic pertinent to the issue of the attitude to the artist has become hotly debated in contemporary society, among which is the discussion about whether we should provide financial support to the artists. Some individuals propose that we should support them, citing the reason that they usually lack money to survive. However, as fas as I'm concerned, it is more conducive to let them support themselves. I would provide several reasons in the following paragraphs. 
+
+First, supporting artists is not equal to other people. 
+
+Second, if artists know that they will have financial supports, they will be more lazy. 
+
+> 只能想到一个论点怎么办
+
+
+
+
+
+The topic pertinent to the issue of the attitude to the companies' behavior on the weekend has become hotly debated in contemporary society, among which is the discussion about whether the company should prohibit sending massages to the staff on the weekend or other spare time to decude the dissatisfactions. Some individuals propose that they should not prohibit that, citing the reason that many emergency can be solved if do so. However, as far as I'm concerned, I agree with that companied should prohibit that. I will provide several reasons in the following paragraphs. 
+
+First, staff will have enough time to rest, which may alleviate their negative attitudes. 
+
+Second, staff will feel angry if they are announced they have to work on the spare time, which may cause the company to have a bad reputation. 
+
+
+
+The topic pertinent to the issue of the attitude towards the junk food has become hotly debated in contemporary society, among which is the discussion abouth whether the government should put higher tax on junk food to reduce the consumption. Some individuals propose that they should put a higher tax, citing the reason that higher price will make consumers give up purchasing the junk food. However, as far as I'm concerned, I strongly hold the opinion that they should not put a higher tax. I would provide several reasons in the following paragraphs. 
+
+First, it is hard to define which food is junk food. To be more specific, how can we treat a food that 
+Second, the junk food won't exert its negative impact on people if it is eated properly
+
+>  （5） 三选一卡壳
+
+6. 
+
+1. Nowadays there are too much fake clothes that may cause a negative influence on you. 
+2. People now have already been awared that what the possess does not define what they are but what they do define what they are. 
+
+>  (7) 卡壳    for those topic that own absolute words, if you can not generated the idea immediately, change the opinion in the opposite.
+>
+> Students
+
+
+
+
+
+
+
+8. 
+
+Providing internship can offer employer a opportunity to know the real ability of applicants. 
+
+The former employer may give their suggestions unequally. 
+
+The online profile can be fake.  
+
+9. 
+
+> 卡住了
+
+10
+
+1. Children will learn more from their own decision
+2. Children will feel stressed if living within their parents decision. 
+
+11 
+
+1. more medicine
+2. The awareness of maitain healthy improv
+
+>  12 卡住
+
+13 
+
+1. People need to relax by watching some movies.
+2. Boring 
+
+14 
+
+1. It is more economical to hire one teacher. One normal teacher is enough to teach all subjects for students aged less than 12 years. 
+
+2. Teacher can be more familiar with students and can teach students better
+
+15. >
+    >
+    >三选一都有点卡
+
+
+
+16. 
+
+
+
+Find a roomate to share the room can have the best effect among three choices. 
+
+
+
+
+
+
+
+Sure, buying fewer expensive electronic devices and cook more at home can contribute to save money in their way. Buy fewer electronic devices can directly cut down your consume and cook at home can save  However, the effect is limited. On the one hand....
+
+on the other hand .,,,,,,
+
+
+
+
+
+> 17. high salary or interst  
+
+1. The high salary can provide a basic requirement of living to you.
+2. You can chase your dream after have a enough accumulation. 
+
+
+
+
+18. 
+
+    1. They can give you more approciate choice. 
+
+
+19.   
+1. They can not make sure that what their research result will be 
+2. Each coin has two sides.
+
+20 .
+1. It is easier for youth to accept new ideas
+2. It is more safe for youth to travel around.
+
+22 .  QQ
+1. The infrastructure can influence more people. 
+2. A good reputation of some goods can attract more money.  
+
+23. 
+1. We do not know the requirement of every thing. 
+2. The people there may need another thing while the orgnization knows.
+
+24. 
+1. You can exercise your independent thinking ability 
+2. Asking others can not always get a reply 
+
+25. 
+1. convenient 
+2. Get feedback immediately 
+
+26. 
+1. The old experience may be too old to be applied. 
+2. It will take us too much time to read about the past while search online cost less.. To be more specific, you can search for the relevant information when you are stuck by the problem.
+
+27
+1. Students will be distracted easily if they just listening. 
+2. Students can better understand the relevant knowledge. To be more specific, there will be a difference between the book and the reality. 
+
+28 QQ
+
+29.
+	 1. students can highly involved the class. 
+   	 2. Teachers will be less interrupted.
+30 QQ
+31.
+1. The new technology devices like drone attract students' attention 
+2. They pay more attention on games.
+
+35.
+1. they can become more familar with their friends or teachers 
+2. They can improve grades or sythesis ability 
+
+![image-20220429173511293](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220429173511293.png)
+
+38.
+
+1. They can protect their eyesight 
+2. They can put more time on out door acitivities improving body health 
+
+40.
+
+1. Students may feel bored if they do their homework all the day 
+2. Students should have some basic living abilities, if their parents can not take care of them 
+
+41
+
+1. Not all people can afford to a digital devices. 
+2. People are more likely to be distracted by digital devices.
+
+43 
+
+1.  They can put their money for more infrastructures. 
+2.  
+
+45  QQ
+
+1. The teaching progress will be put off. 
+2. There is no need for a univerisity student to learn the most basic skills.
+
+46
+
+![image-20220429175949052](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220429175949052.png)
+
+1. You can be less influenced by rumors or some bad news. You can have a nice attitude towards your life.  
+2. You can concentrated on your favorite things.
+
+![image-20220429190632727](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220429190632727.png)
+
+48 QQ
+
+1. Some traditions may have bad influence if you follow those. 
+2. What we should follow is its spirit insteaf of its rules. 
+
+50 
+
+1. The work efficiency will decrease 
+2. People will have less salary 
+
+
+
+48 
+
+The topic pertinent to the issue of the attiude to tradition has become hotly debated in contemporary society, among which is the discussion about whether tradition is more important than personal perferences. Some individuals propose that we should follow the tradition instead of personal opinion, citing the reason that it is good for people because most people do that. However, as far as I'm concerned, I strongly hold the idea that individual preferences are more important. 
+
+First, some traditions may have a bad influence on modern society. To be more specific, people's living habits has completely been changed, which means some old tradition may have some conflicts with today's habits. In this situation, people should focus more on the reality rather than obey the tradition without consideration. 
+Take me as an example. In the Chinese New year, people would play fireworks in the past time. However, it will influence the air environment, which is already bad nowadays. If people chose to stick to the tradition, the air pollution would become worse and it would make a huge noise, which will also exert its bad impact on some people who want to have a rest in the festival. Contemporary people have more competition and need more rest than ever before. So the government decided to prohibit the use of fireworks. At the beginning, people were all against the decision. Nevertheless, when people found that the air was fresher and the noise was gone, they became to agree the idea as it improved people's feelings indeed. It was the final effect that decided the people's attitude towards the tradition. 
+Second, we sometimes need innovation to win the competition. The main reason is that when you compete with others, it is hard to create a perfect project but it is easier to generate a new idea, which may interest judges more. 
+Take Tom, a senior high school student, as an example. He attended a Math Modeling Competition last winter vacation. Its aim was to build a model and test the model's accuracy. The number of all teams was 50 thousand. If he had followed the tradition to build some basic layers to calculate and select the best result, he could not perform better than those students who had attended the competition last year. So, he chose to use another solution, which is a completely new solution. He used the neural network, a kind of technique used in AI, to build a model, making the model more intelligent. Finally, his classmates who used the traditional solution failed and just got a certification of participation. Tom got an outstanding reward, which is the highest glory for the competition. 
+Therefore, much importance is attached to innovation for competition, especially for those highly competitive games.
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 38a923e4035a95830395bbf3b059fb20d20ff732
